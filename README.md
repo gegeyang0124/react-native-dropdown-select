@@ -66,9 +66,7 @@ PickDropdown
 ```
 
 ### DropdownBox 详解
-<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_1.gif?raw=true" width = "160" height = "287.5" alt="Demo 1"/>
-<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_2.gif?raw=true" width = "160" height = "287.5" alt="Demo 2"/>
-<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_3.gif?raw=true" width = "160" height = "287.5" alt="Demo 3"/>
+<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_1.gif?raw=true" width = "160" height = "287.5" alt="Demo 1"/><img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_2.gif?raw=true" width = "160" height = "287.5" alt="Demo 2"/><img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_3.gif?raw=true" width = "160" height = "287.5" alt="Demo 3"/>
 You can also render your option row and row separator by implement `renderRow` and `renderSeparator` function.
 
 ##### DropdownBox自定义样式属性
@@ -102,6 +100,14 @@ Give the style props as your choice:
 `accessible`          | bool     | Yes      | true    | Set accessibility of dropdown modal and dropdown rows
 `keyboardShouldPersistTaps`    | enum('always', 'never', 'handled') | Yes | 'never' | See react-native `ScrollView` props
 `multiple`    | bool | Yes | false | Sets single or multiple selections
+
+##### DropdownBox的方法
+方法            |  描述
+----------------- |  -----------
+`show()`          |  Show the dropdown. **Won't trigger `onDropdownWillShow`.**
+`hide()`          |  Hide the dropdown. **Won't trigger `onDropdownWillHide`.**
+`select(idx)`     |  Select the specified option of the `idx`. Select `-1` will reset it to display `defaultValue`. **Won't trigger `onSelect`.**
+
 
 
 ### 欢迎交流
