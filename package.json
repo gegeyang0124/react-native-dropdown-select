@@ -1,0 +1,49 @@
+{
+  "name": "react-native-dropdown-select",
+  "version": "1.0.0",
+  "description": "下拉框组件",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gegeyang0124/react-native-dropdown-select.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "ios",
+    "android",
+    "modal",
+    "dropdown",
+    "picker",
+    "select",
+    "selector",
+    "option",
+    "react-native-dropdown-select",
+    "react-native-dropdown",
+    "下拉框",
+    "下拉"
+  ],
+  "author": {
+    "name": "周阳",
+    "email": "584450903@qq.com",
+    "url": "https://github.com/gegeyang0124",
+    "blog":"http://blog.sina.com.cn/s/articlelist_6078695441_0_1.html"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gegeyang0124/react-native-dropdown-select/issues"
+  },
+  "homepage": "https://github.com/gegeyang0124/react-native-dropdown-select#readme",
+  "dependencies": {
+    "react-native-stylesheet-adapt": "^1.0.1",
+    "react-native-checkbox-cus": "^1.0.0"
+  }
+}
