@@ -1,4 +1,4 @@
-# react-native-dropdown-select
+# react-native-dropdown-select （将在2018-12-8发布包）
 下拉框组件
 
 ###  安装组件：
