@@ -6,7 +6,7 @@ npm i --save react-native-dropdown-select
 
 ### 展示ui图
 ![下拉框展示图](https://thumbnail0.baidupcs.com/thumbnail/d93d3eadba1126392992a85a3a297c2f?fid=2334753321-250528-642919755627711&time=1544076000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-4wGz0VK4RgWae7IJYAGASf9owlQ%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7876038701528004203&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
-![下拉框展示图](https://thumbnail0.baidupcs.com/thumbnail/3cf72d4d7f364109018e5c6d85f13dd4?fid=2334753321-250528-951803339742254&time=1544076000&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-w%2FazI3hi2rH8rMIx2s68m5xz8qY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7876140722297214557&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
+![下拉框展示图](https://thumbnail0.baidupcs.com/thumbnail/f85de594b9d654e20bcee4722d70bd3f?fid=2334753321-250528-714535652839784&time=1544140800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2Fzi%2FsTtIRJDdOjLJoV4565xLet0%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7893807274390999315&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 
 ### 使用（这些ui组件的详细方法参数、作用、属性，可查看源文件，里面有详细注释）
 ```javascript
