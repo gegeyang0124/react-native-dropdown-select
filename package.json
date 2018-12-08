@@ -1,6 +1,6 @@
 {
   "name": "react-native-dropdown-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "下拉框组件",
   "main": "index.js",
   "directories": {
