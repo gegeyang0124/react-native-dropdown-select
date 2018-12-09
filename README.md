@@ -5,7 +5,11 @@
 npm i --save react-native-dropdown-select
 
 ### 展示ui图
-![下拉框展示图](https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png)![下拉框展示图](https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selSig.png)
+
+<p>
+    <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png" />
+    <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selSig.png" />
+</p>
 
 ### 使用（这些ui组件的详细方法参数、作用、属性，可查看源文件，里面有详细注释）
 ```javascript
