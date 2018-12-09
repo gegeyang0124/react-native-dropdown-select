@@ -7,9 +7,9 @@ npm i --save react-native-dropdown-select
 ### 展示ui图
 <p>
     <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png" 
-    height="auto" width="400" />
+          height="auto" width="400" />
     <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selSig.png"
-      height="auto" width="400"/>
+          height="auto" width="400"/>
 </p>
 
 ### 使用（这些ui组件的详细方法参数、作用、属性，可查看源文件，里面有详细注释）
