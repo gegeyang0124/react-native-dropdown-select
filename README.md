@@ -6,9 +6,9 @@ npm i --save react-native-dropdown-select
 
 ### 展示ui图
 <p>
-    <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png" 
+    <img src ="./showImg/selMul.png" 
           height="auto" width="400" />
-    <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selSig.png"
+    <img src ="./showImg/selSig.png"
           height="auto" width="400"/>
 </p>
 
@@ -70,7 +70,13 @@ PickDropdown
 ```
 
 ### DropdownBox 详解
-<img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_1.gif?raw=true" width = "160" height = "287.5" alt="Demo 1"/><img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_2.gif?raw=true" width = "160" height = "287.5" alt="Demo 2"/><img src="https://github.com/sohobloo/react-native-modal-dropdown/blob/master/docs/demo_3.gif?raw=true" width = "160" height = "287.5" alt="Demo 3"/>
+<img src="./showImg/demo_1.gif" 
+width = "160" height = "287.5" 
+alt="Demo 1"/><img src="./showImg/demo_2.gif" 
+width = "160" height = "287.5" 
+alt="Demo 2"/><img src="./showImg/demo_3.gif" 
+width = "160" height = "287.5" 
+alt="Demo 3"/>
 You can also render your option row and row separator by implement `renderRow` and `renderSeparator` function.
 
 ##### DropdownBox自定义样式属性
