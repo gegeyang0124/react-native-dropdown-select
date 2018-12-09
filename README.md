@@ -5,9 +5,12 @@
 npm i --save react-native-dropdown-select
 
 ### 展示ui图
+![下拉框展示图](https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png)
+![下拉框展示图](https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selSig.png)
 
 <p>
-    <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png" />
+    <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selMul.png" 
+    height="auto" width="400" />
     <img src ="https://github.com/gegeyang0124/react-native-dropdown-select/blob/master/showImg/selSig.png" />
 </p>
 
