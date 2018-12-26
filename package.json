@@ -49,7 +49,7 @@
   },
   "homepage": "https://github.com/gegeyang0124/react-native-dropdown-select#readme",
   "dependencies": {
-    "react-native-stylesheet-adapt": "^1.0.1",
+    "react-native-stylesheet-adapt": "^1.0.2",
     "react-native-checkbox-cus": "^1.0.0"
   }
 }
